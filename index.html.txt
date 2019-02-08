@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Sibu Kumar</h1>
+  <p>Intern @ Cognizant </p> 
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>ABOUT MYSELF</h3>
+      <p></p>
+      <p>Full name:Sibu Kumar.Y</p>
+      <p>Date of Birth:29/12/1997.</p>
+      <p>Address:No:31,Nallappa nagar,</p>
+      <p>        BVM School Road,</p>     
+      <p>        Mahalingapuram,</p>
+      <p>        Pollachi,</p>
+      <p>        Coimbatore-642002.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>SKILLS</h3>
+      <p>C</p>
+      <p>JAVA</p>
+      <p>SQL</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>AREAS OF INTEREST</h3>        
+      <p>Machine Learning</p>
+      <p>IoT</p>
+      <p>Business Management</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>PROJECTS</h3>
+      <p><h3>Car Showroom Management System</h3></p>
+      <p>This project involves the administrative management</p>
+      <p>of a typical vehicle showroom using HTML,CSS,JDBC.</p>
+  
+      <p><h3>Solar Powered Automation in Irrigation System</h3></p>
+      <p>The Objective of this project is to assist Agriculturists</p>
+      <p>in the management of crops using Arduino UNO.</p>
+</div>
+<div class="col-sm-4">
+<h3>OTHER INTERESTS</h3>
+<p>Travel</p>
+<p>Playing Violin</p>
+<p>Automobiles especially Cars</p>
+</div>
+</div>
+<div class="row">
+    <div class="col-sm-4">
+    <h3>EDUCATIONAL QUALIFICATIONS</h3>
+    <p><h3>1. Bell Matriculation Higher Secondary School,Tirunelveli.</h3></p>
+    <p>10th Grade</p>
+    <p>Percentage:96</p>
+    </div>
+    <br>
+    <div class="col-sm-4">
+    <br>
+    <p><h3>2. RoseMary Matriculation Higher Secondary School,Tirunelveli.</h3></p>
+    <p>12th Grade</p>
+    <p>Percentage:91.5</p>
+    </div>
+    <div class="col-sm-4">
+    <br>
+    <p><h3>3. Karpagam College of Engineering,Coimbatore</h3></p>
+    <p>B.E-EEE</p>
+    <p>CGPA:8.5</p>
+    </div>
+</div>
+</div>
+
+</body>
+</html>
